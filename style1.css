@@ -1,0 +1,15 @@
+body
+{
+    font-family: 'Kumbh Sans', sans-serif;  
+    background-color:hsl(152, 62%, 63%);
+    background-position: -150% -180%, 190% 280%;
+    background-image: url(images/bg-pattern-top.svg ),url(images/bg-pattern-bottom.svg);
+    background-size: 80% 80%;
+    height: 100vh;
+    background-repeat:no-repeat no-repeat;
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+    
+    
+}
